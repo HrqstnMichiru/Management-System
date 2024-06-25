@@ -1,0 +1,10 @@
+.vs/
+.vscode/
+mysystem/
+*.txt
+*.dat
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.exe
